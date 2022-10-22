@@ -1,0 +1,35 @@
+body{
+  background-color: #FFE562;
+}
+
+p{
+  padding-top: 1rem;
+}
+
+.box{
+  text-align: center;
+  height: 100%;
+}
+.blue-line{
+  color: blue;
+}
+.head-box{
+  height: 15%;
+}
+.inner-box{
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+.purple-line{
+  color: purple;
+}
+.para-class{
+  height: 60%;
+}
+.span-box{
+  font-size: 1.5rem;
+}
+.second-header{
+  background-color: #F3FFFF;
+  padding-bottom: 0.5rem;
+}
